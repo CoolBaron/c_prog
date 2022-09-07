@@ -5,6 +5,6 @@ int main()
 
 {
 	printf("Hello world!\n");
-	printf("Have a great day!\n");
+	printf("Have fun!\n");
 	return 0;
 }
